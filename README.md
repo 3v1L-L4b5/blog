@@ -1,2 +1,2 @@
 # blog
-oneten blog project
+udacity oneten blog project
